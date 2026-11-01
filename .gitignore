@@ -1,0 +1,18 @@
+# secrets and local data: never commit these
+.env
+*.env
+backend/data/app.db*
+*.db
+*.db-wal
+*.db-shm
+
+# Python
+.venv/
+__pycache__/
+.pytest_cache/
+
+# Node / Expo
+node_modules/
+mobile/dist/
+mobile/.expo/
+.DS_Store

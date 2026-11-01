@@ -1,0 +1,28 @@
+{
+  "note": "Synthetic students with invented behaviour. Shows how the rules behave on our assumptions, not on real students.",
+  "students": 50,
+  "seed": 2026,
+  "weak_concepts_engine": {
+    "precision": 0.81,
+    "recall": 1.0
+  },
+  "weak_concepts_fixed10": {
+    "precision": 1.0,
+    "recall": 0.74
+  },
+  "english_load": {
+    "students": 14,
+    "engine_flagged": 14,
+    "fixed10_can_flag": 0
+  },
+  "false_language_flags_on_other_students": 0,
+  "strong_students": {
+    "n": 8,
+    "wrongly_flagged_weak": 2
+  },
+  "cause_primary_matches": {
+    "n": 28,
+    "matched": 18
+  },
+  "avg_diagnostic_questions": 10.2
+}
