@@ -4,8 +4,6 @@ An Android adaptive-learning app for Classes 6–10. It works out each student's
 
 Team Alchemy · Code Kernel '26 · Round 2 (Build) · Adaptive Learning for Classes 6 to 10.
 
-!\[Architecture](docs/architecture.png)
-!\[Flow](docs/flow.png)
 
 ## What it does
 
